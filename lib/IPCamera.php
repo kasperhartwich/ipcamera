@@ -35,8 +35,8 @@ class IPCamera {
         }
     }
 
-    public function snapshot() {
-        $response = $this->_request('snapshot.cgi');
+    public function snapshot($path = 'snapshot.cgi') {
+        $response = $this->_request($path);
         return $response;
     }
 
