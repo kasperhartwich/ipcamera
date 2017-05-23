@@ -1,5 +1,5 @@
 {
-    "name": "kasperh/ipcamera",
+    "name": "kasperhartwich/ipcamera",
     "type": "library",
     "description": "Use to integrate with IP cameras like Wanscam, Foscam, ezCam, Bestcam and alike",
     "keywords": ["ipcamera","wanscam","foscam","ezcam","bestcam"],
